@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IAmStoney/CurrencyConverter.git/static/css/main.43b6d196.css",
-    "main.js": "/IAmStoney/CurrencyConverter.git/static/js/main.3a6476a8.js",
-    "static/js/453.e2b5105c.chunk.js": "/IAmStoney/CurrencyConverter.git/static/js/453.e2b5105c.chunk.js",
-    "index.html": "/IAmStoney/CurrencyConverter.git/index.html",
-    "main.43b6d196.css.map": "/IAmStoney/CurrencyConverter.git/static/css/main.43b6d196.css.map",
-    "main.3a6476a8.js.map": "/IAmStoney/CurrencyConverter.git/static/js/main.3a6476a8.js.map",
-    "453.e2b5105c.chunk.js.map": "/IAmStoney/CurrencyConverter.git/static/js/453.e2b5105c.chunk.js.map"
+    "main.css": "/CurrencyConverter/static/css/main.43b6d196.css",
+    "main.js": "/CurrencyConverter/static/js/main.13604e38.js",
+    "static/js/453.e2b5105c.chunk.js": "/CurrencyConverter/static/js/453.e2b5105c.chunk.js",
+    "index.html": "/CurrencyConverter/index.html",
+    "main.43b6d196.css.map": "/CurrencyConverter/static/css/main.43b6d196.css.map",
+    "main.13604e38.js.map": "/CurrencyConverter/static/js/main.13604e38.js.map",
+    "453.e2b5105c.chunk.js.map": "/CurrencyConverter/static/js/453.e2b5105c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43b6d196.css",
-    "static/js/main.3a6476a8.js"
+    "static/js/main.13604e38.js"
   ]
 }
