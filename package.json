@@ -2,7 +2,7 @@
   "name": "my-reacr-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/IAmStoney/CurrencyConverter.git",
+  "homepage": "https://iamstoney.github.io/CurrencyConverter/",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
