@@ -10,6 +10,7 @@ const currencyToCountry = {
   AUD: 'au',
 };
 
+
 const dummyWeatherData = {
   INR: [
     { day: 'Mon', min: 24, max: 35, icon: '01d' },
@@ -126,13 +127,15 @@ const MyWorldMap = ({ baseCurrency, quoteCurrency }) => {
       {/* Sun icon */}
       {!isDark && (
         <div style={{ position: 'absolute', top: 20, right: 20, zIndex: 10 }}>
-          <img
+          {/* <img
             src="/sun-icon.png"
             alt="Sun Icon"
             style={{ width: 42, height: 42, userSelect: 'none', pointerEvents: 'none' }}
-          />
+          /> */}
         </div>
       )}
+
+      
 
       <WorldMap
         data={data}
@@ -140,6 +143,9 @@ const MyWorldMap = ({ baseCurrency, quoteCurrency }) => {
         size="responsive"
         backgroundColor="transparent"
         frame={false}
+        
+        
+
       />
     </div>
   );
